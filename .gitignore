@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+logs
+target
+/.bsp
+/.idea
+/.logs
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+*.cache
+/clippings/src/test/.files
